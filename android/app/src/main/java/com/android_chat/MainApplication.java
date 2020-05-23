@@ -1,4 +1,4 @@
-package com.firebase_chat;
+package com.android_chat;
 
 import android.annotation.SuppressLint;
 import android.app.Application;

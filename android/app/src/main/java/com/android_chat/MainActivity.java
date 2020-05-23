@@ -1,4 +1,4 @@
-package com.firebase_chat;
+package com.android_chat;
 
 import com.facebook.react.ReactActivity;
 
